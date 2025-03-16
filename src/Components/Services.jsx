@@ -14,7 +14,7 @@ import websitebuildingvideo from "../Images/websitebuildingvideo.mp4";
 import Whychooseus from "../Images/Whychooseus.jpeg";
 import Webdevelopment from "../Images/webdevelopment1.jpeg";
 import logo from "../Images/logo.jpeg"; // Replace with actual logo path
-import Footer from "../Components/Footer"; // Importing Footer
+
 import SEOANALYSIS from "../Images/SEOANALYSIS.jpeg";
 
 const Service = () => {
